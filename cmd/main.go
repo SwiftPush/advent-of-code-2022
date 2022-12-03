@@ -1,6 +1,8 @@
 package main
 
 import (
+	_ "aoc/day01"
+
 	"aoc/registry"
 
 	"fmt"
