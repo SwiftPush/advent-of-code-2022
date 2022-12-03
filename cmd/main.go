@@ -2,6 +2,7 @@ package main
 
 import (
 	_ "aoc/day01"
+	_ "aoc/day02"
 
 	"aoc/registry"
 
